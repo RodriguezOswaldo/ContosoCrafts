@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ContosoCrafts.Website.Models;
+using ContosoCrafts.WebSite.Models;
 using ContosoCrafts.WebSite.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

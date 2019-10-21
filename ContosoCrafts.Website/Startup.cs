@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
-using ContosoCrafts.Website.Models;
+using ContosoCrafts.WebSite.Models;
 using ContosoCrafts.WebSite.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
